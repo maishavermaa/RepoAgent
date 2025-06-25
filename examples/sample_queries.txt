@@ -1,0 +1,5 @@
+"How does authentication work in this application?"
+"Show me all the database models and their relationships"
+"What API endpoints are available?"
+"Find all error handling patterns"
+"How is configuration managed?"
